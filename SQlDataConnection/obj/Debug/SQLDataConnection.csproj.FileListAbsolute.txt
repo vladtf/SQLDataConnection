@@ -89,3 +89,8 @@ C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\SQLData
 C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\SQLDataConnection.csproj.CopyComplete
 C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\MyCalc.exe
 C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\MyCalc.pdb
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\SQLDataConnection.csprojAssemblyReference.cache
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\Dapper.dll
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\Dapper.xml
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\Google.Protobuf.xml
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\Renci.SshNet.xml

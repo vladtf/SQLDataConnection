@@ -1,0 +1,14 @@
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\MyCalc.exe.config
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\MyCalc.exe
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc.csprojAssemblyReference.cache
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MainWindow.g.cs
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\App.g.cs
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc_MarkupCompile.cache
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc_MarkupCompile.lref
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MainWindow.baml
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc.g.resources
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc.csproj.GenerateResource.cache
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc.pdb

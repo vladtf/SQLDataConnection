@@ -1,0 +1,91 @@
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\SQLDataConnection.csprojAssemblyReference.cache
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MainWindow.g.cs
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\App.g.cs
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc_MarkupCompile.cache
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc_MarkupCompile.lref
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\MyCalc.exe.config
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\MyCalc.exe
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MainWindow.baml
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc.g.resources
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\SQLDataConnection.csproj.GenerateResource.cache
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\Dapper.dll
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\Dapper.xml
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\obj\Debug\SQLDataConnection.csproj.CopyComplete
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\Google.Protobuf.dll
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\MySql.Data.dll
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\Renci.SshNet.dll
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\Google.Protobuf.xml
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\MySql.Data.xml
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\MyCalc\bin\Debug\Renci.SshNet.xml
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\MyCalc.exe.config
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\MyCalc.exe
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\Dapper.dll
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\Google.Protobuf.dll
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\MySql.Data.dll
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\Renci.SshNet.dll
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\Dapper.xml
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\Google.Protobuf.xml
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\MySql.Data.xml
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\bin\Debug\Renci.SshNet.xml
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\SQLDataConnection.csprojAssemblyReference.cache
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\MainWindow.g.cs
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\App.g.cs
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\MyCalc_MarkupCompile.cache
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\MyCalc_MarkupCompile.lref
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\MainWindow.baml
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\MyCalc.g.resources
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\SQLDataConnection.csproj.GenerateResource.cache
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\SQLDataConnection.csproj.CopyComplete
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\MyCalc.exe
+C:\Users\Skipper\Desktop\C#\MyCalc v.2\MyCalc\obj\Debug\MyCalc.pdb
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\MyCalc.exe.config
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\MyCalc.exe
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\Dapper.dll
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\Google.Protobuf.dll
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\MySql.Data.dll
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\Renci.SshNet.dll
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\Dapper.xml
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\Google.Protobuf.xml
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\MySql.Data.xml
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\bin\Debug\Renci.SshNet.xml
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\SQLDataConnection.csprojAssemblyReference.cache
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\MainWindow.g.cs
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\App.g.cs
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\MyCalc_MarkupCompile.cache
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\MyCalc_MarkupCompile.lref
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\MainWindow.baml
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\MyCalc.g.resources
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\SQLDataConnection.csproj.GenerateResource.cache
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\SQLDataConnection.csproj.CopyComplete
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\MyCalc.exe
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\MyCalc\obj\Debug\MyCalc.pdb
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\MyCalc.exe.config
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\MyCalc.exe
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\MyCalc.pdb
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\Google.Protobuf.dll
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\MySql.Data.dll
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\Renci.SshNet.dll
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\MySql.Data.xml
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\MainWindow.g.cs
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\App.g.cs
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\MyCalc_MarkupCompile.cache
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\MyCalc_MarkupCompile.lref
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\MainWindow.baml
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\MyCalc.g.resources
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\SQLDataConnection.csproj.GenerateResource.cache
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\SQLDataConnection.csproj.CopyComplete
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\MyCalc.exe
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\MyCalc.pdb

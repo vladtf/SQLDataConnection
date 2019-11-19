@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLDataConnection", "SQlDataConnection\SQLDataConnection.csproj", "{546F80E1-A1C9-4A77-90B2-BD7A2BEDEC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{546F80E1-A1C9-4A77-90B2-BD7A2BEDEC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546F80E1-A1C9-4A77-90B2-BD7A2BEDEC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546F80E1-A1C9-4A77-90B2-BD7A2BEDEC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546F80E1-A1C9-4A77-90B2-BD7A2BEDEC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC9E7CEE-B2A4-4857-B16E-B61C986C22F7}
+	EndGlobalSection
+EndGlobal

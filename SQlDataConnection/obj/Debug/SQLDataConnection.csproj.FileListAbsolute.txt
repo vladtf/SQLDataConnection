@@ -94,3 +94,7 @@ C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\Dapper.
 C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\Dapper.xml
 C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\Google.Protobuf.xml
 C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\bin\Debug\Renci.SshNet.xml
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\HomeDataAcces.g.cs
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\HomeDataAcces.baml
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\InsertPage.g.cs
+C:\Users\Skipper\Desktop\C#\SQLDataConnetion\SQlDataConnection\obj\Debug\InsertPage.baml

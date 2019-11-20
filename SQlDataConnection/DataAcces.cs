@@ -14,7 +14,7 @@ namespace MyCalc
             //create a new CONNECTION and destroy it after closing {}
             using (IDbConnection connection = new MySqlConnection(Helper.CnnVal("sakilaDB")))
             {
-                //sql statemnt to select data 
+                //sql statemnt to select data
                 //var output = connection.Query<Person>($"Select * from sakila.actor where last_name = '{lastName}'").ToList();
                 var output = connection.Query<Person>($"call actor_getByLastName('{ lastName }');").ToList();
 

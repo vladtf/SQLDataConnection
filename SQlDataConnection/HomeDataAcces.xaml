@@ -21,19 +21,22 @@
             <RowDefinition Height="1*" />
         </Grid.RowDefinitions>
 
+        <!--
         <Image HorizontalAlignment="Center" Grid.RowSpan="5" Source="Resources/background.jpg" Stretch="Fill" Opacity="0.9" Name="background" Height="600" Width="800">
             <Image.Clip>
                 <EllipseGeometry Center="400,300" RadiusX="400" RadiusY="250"/>
             </Image.Clip>
-        </Image>
+        </Image> -->
 
 
-
+        <Grid.Background>
+            <ImageBrush ImageSource="Resources/background.jpg"   Opacity="0.9"/>
+        </Grid.Background>
 
         <ListBox Grid.Row="1" Grid.Column="0" Width="500" HorizontalAlignment="Center" Name="peopleFoundListBox" 
-                 Margin="0,10,0,10" FontSize="20" Background="LightBlue" />
+                 Margin="0,10,0,10" FontSize="25" Background="LightBlue" />
 
-        <TextBox Grid.Row="2" Grid.Column="0" Width="200" Height="50" HorizontalAlignment="Center" Margin="200,10,0,10"
+        <TextBox Grid.Row="2" Grid.Column="0" Width="200" Height="35" HorizontalAlignment="Center" Margin="200,10,0,10"
                  Name="lastNameTextBox" FontSize="25" KeyUp="enterButton_KeyUp" Background="LightBlue"/>
 
         <Label Grid.Row="2" Grid.Column="0" Width="200" Height="50" HorizontalAlignment="Center" Foreground="White"
@@ -49,10 +52,10 @@
         <Button Name="searchButton" Grid.Row="3" Grid.Column="0" Width="150" Height="25" Background="LightBlue" Opacity=".9"
                 HorizontalAlignment="Center" Content="Search" Margin="1,1,1,1" Click="searchButton_Click" />
 
-        <Button Name="InsertPage" Grid.Row="3" Width="100" Height="25" Background="LightBlue" Opacity="0.9"
-                HorizontalAlignment="Left" Content="Insert" Margin="345,84,0,-8" Click="InsertPage_Click" />
-        <Button x:Name="backButton_Copy" Grid.Row="0" Grid.Column="0" Width="55" Background="LightBlue"
-            HorizontalAlignment="Left"  Opacity="0.5" Margin="745,0,0,121" Click="backButton_Copy_Click">
+        <Button Name="InsertButton" Grid.Row="3" Width="100" Height="25" Background="LightBlue" Opacity="0.9"
+                HorizontalAlignment="Center" Content="Insert"  Click="InsertPage_Click" Grid.RowSpan="2" />
+        <Button Name="backButton_Copy" Grid.Row="0" Grid.Column="0" Width="55" Background="LightBlue"
+            HorizontalAlignment="Right" VerticalAlignment="Top" Height="35"  Opacity="0.5"  Click="backButton_Copy_Click">
             <Image Source="Resources/close_button.png" Stretch="Uniform"  Opacity="0.80"/>
         </Button>
     </Grid>

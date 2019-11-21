@@ -31,5 +31,33 @@ namespace MyCalc
         {
             parentWindow.Close();
         }
+
+        private void insertButton_Click(object sender, System.Windows.RoutedEventArgs e)
+        {
+            Insert_Action();
+        }
+
+        private void DeleteButton_Click(object sender, System.Windows.RoutedEventArgs e)
+        {
+            DataAcces db = new DataAcces();
+
+            db.DeletPerson(idTextBox.Text);
+
+            firstNameTextBox.Text = lastNameTextBox.Text = idTextBox.Text = "";
+        }
+
+        private void TextBox_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Enter)
+                Insert_Action();
+        }
+        private void Insert_Action()
+        {
+            DataAcces db = new DataAcces();
+
+            db.InsertPerson(firstNameTextBox.Text, lastNameTextBox.Text, idTextBox.Text);
+
+            firstNameTextBox.Text = lastNameTextBox.Text = idTextBox.Text = "";
+        }
     }
 }

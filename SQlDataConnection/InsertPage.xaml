@@ -11,35 +11,60 @@
     <Grid MouseDown="Grid_MouseDown">
 
         <Grid.RowDefinitions>
-            <RowDefinition Height="150" />
-            <RowDefinition Height="150" />
             <RowDefinition Height="100" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
         </Grid.RowDefinitions>
 
         <Grid.Background>
             <ImageBrush ImageSource="Resources/background.jpg" Stretch="Fill" Opacity="0.90"/>
         </Grid.Background>
 
-        <TextBox Grid.Row="1" Grid.Column="0" Width="200" Height="50" HorizontalAlignment="Center" Margin="200,10,0,10"
-                 Name="lastNameTextBox" FontSize="25" Background="LightBlue" />
-        <Label Grid.Row="1" Grid.Column="0" Width="200" Height="50" HorizontalAlignment="Center" Foreground="White"
+        <Label Grid.Row="0" Width="400" Height="50" HorizontalAlignment="Center" Foreground="White" 
+               HorizontalContentAlignment="Center" Background="Transparent" Name="InsertLabel" FontSize="25" VerticalAlignment="Center">
+            Insert / Delete Page
+        </Label>
+
+        <TextBox Grid.Row="1" Width="200" Height="35" HorizontalAlignment="Center" Margin="200,15,0,15" VerticalAlignment="Center" 
+                  FontSize="25" Background="LightBlue" Name="firstNameTextBox"/>
+
+        <Label Grid.Row="1" Grid.Column="0" Width="200" Height="50" HorizontalAlignment="Center" Foreground="White" 
                Margin="0,0,200,0" Background="Transparent" Name="lastNameLabel" FontSize="25" HorizontalContentAlignment="Center">
+            First Name :
+        </Label>
+
+        <TextBox Grid.Row="2" Width="200" Height="35" HorizontalAlignment="Center" Margin="200,15,0,15"
+                 FontSize="25" Background="LightBlue" Name="lastNameTextBox"/>
+
+        <Label Grid.Row="2" Grid.Column="0" Width="200" Height="50" HorizontalAlignment="Center" Foreground="White"
+               Margin="0,0,200,0" Background="Transparent" FontSize="25" HorizontalContentAlignment="Center">
             Last Name :
         </Label>
 
-        <Label Grid.Row="0" Grid.Column="0" Width="200" Height="50" HorizontalAlignment="Center" Foreground="White" 
-               HorizontalContentAlignment="Center" Background="Transparent" Name="InsertLabel" FontSize="25" VerticalAlignment="Center">
-            Insert Page
+        <TextBox Grid.Row="3" Width="200" Height="35" HorizontalAlignment="Center" Margin="200,15,0,15"
+                 FontSize="25" Background="LightBlue" Name="idTextBox" KeyUp="TextBox_KeyUp"/>
+
+        <Label Grid.Row="3" Grid.Column="0" Width="200" Height="50" HorizontalAlignment="Center" Foreground="White" 
+               Margin="0,0,200,0" Background="Transparent" FontSize="25" HorizontalContentAlignment="Center" >
+            Id :
         </Label>
 
-        <Button Name="searchButton" Grid.Row="2" Grid.Column="0" Width="150" Height="25" Background="LightBlue" Foreground="Black"
-                HorizontalAlignment="Center" Content="Insert" Margin="1,1,1,1" Opacity="0.9" />
-        <Button Name="backButton" Grid.Row="0" Grid.Column="0" Width="120" Background="LightBlue"
-                HorizontalAlignment="Left" Content="Back" Opacity="0.5" Margin="0,0,0,121" Click="backButton_Click"/>
-        <Button x:Name="backButton_Copy" Grid.Row="0" Grid.Column="0" Width="55" Background="LightBlue"
-            HorizontalAlignment="Left"  Opacity="0.5" Margin="745,0,0,121" Click="backButton_Copy_Click">
+
+        <Button Name="insertButton" Grid.Row="4" Grid.Column="0" Width="150" Height="25" Background="LightBlue" Foreground="Black"
+                HorizontalAlignment="Center" Content="Insert"  Opacity="0.9" Margin="0,0,150,0" Click="insertButton_Click" BorderThickness="0,0,1,0"/>
+
+        <Button Name="backButton" Grid.Row="0" Grid.Column="0" Width="120" Background="LightBlue" VerticalAlignment="Top" Height="35"
+                HorizontalAlignment="Left" Content="Back" Opacity="0.5" Click="backButton_Click"/>
+
+        <Button Name="closeButton_Copy" Grid.Row="0" Grid.Column="0" Width="50" Background="LightBlue"
+            HorizontalAlignment="Right"  Opacity="0.5"  Click="backButton_Copy_Click" VerticalAlignment="Top" Height="35" >
             <Image Source="Resources/close_button.png" Stretch="Uniform"  Opacity="0.80"/>
         </Button>
+        <Button Name="DeleteButton" Grid.Row="4" Grid.Column="0" Width="150" Height="25" Background="LightBlue" Foreground="Black"
+            HorizontalAlignment="Center" Content="Delete by ID"  Opacity="0.9" Margin="150,0,0,0" Click="DeleteButton_Click" BorderThickness="1,0,0,0" />
+
 
 
     </Grid>

@@ -1,1 +1,1 @@
-A easy way to connect your MySql server to C# code.
+A easy way to connect your MySql/SQLServer to C# code.
